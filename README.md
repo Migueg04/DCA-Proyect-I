@@ -1,8 +1,8 @@
 Convencion de commits. Para declarar las modificaciones de la version se usará la siguiente convencion.
-   ° feat(scope) -> Se usa para agregar una nueva funcionalidad o mejora significativa.  
+   ° feat(scope) -> Se usa para agregar una nueva funcionalidad.  
    ° fix(scope) -> Se usa para corregir errores en el código.
    ° docs (scope) -> Se usa para cambios en la documentación, como actualizar el `README.md` o agregar comentarios en el código.  
-   ° refactor(scope) -> Se usa para reestructurar código sin cambiar su funcionalidad.
+   ° refactor(scope) -> Se usa para mejorar del código sin cambiar su funcionalidad..
 
    ° `scope` -> indica la parte del proyecto afectada.
    ° se puede agregar una descripción corta y concisa de los cambios realizados despues de un guion (-).
